@@ -6,7 +6,7 @@ Simple screen designs for authentication
   -npm install or use yarn
   -expo start
 
-  ![Alt Text](img/1.jpg | height = 25)
+  ![Alt Text](img/1.jpg = 250x300) 
   
   ![Alt Text](img/2.jpg)
   
