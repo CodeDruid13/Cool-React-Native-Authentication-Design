@@ -1,12 +1,12 @@
 # Cool-React-Native-Authentication-Design
 Simple screen designs for authentication
 
-git clone https://github.com/CodeDruid13/Cool-React-Native-Authentication-Design.git
-cd Cool-React-Native-Authentication-Design
-npm install
-expo start
+  -git clone https://github.com/CodeDruid13/Cool-React-Native-Authentication-Design.git
+  -cd Cool-React-Native-Authentication-Design
+  -npm install or use yarn
+  -expo start
 
-  ![Alt Text](img/1.jpg)
+  ![Alt Text](img/1.jpg) 
   
   ![Alt Text](img/2.jpg)
   
