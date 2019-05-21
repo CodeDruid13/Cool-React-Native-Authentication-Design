@@ -5,12 +5,14 @@ Simple screen designs for authentication
   -cd Cool-React-Native-Authentication-Design
   -npm install or use yarn
   -expo start
+  
+  -Project Images 
+  
+  Welcome Screen             | Login Screen
+:-------------------------:|:-------------------------:
+  ![Alt Text](img/1.jpg)  |   ![Alt Text](img/2.jpg)
 
-  ![Alt Text](img/1.jpg) 
-  
-  ![Alt Text](img/2.jpg)
-  
-  ![Alt Text](img/2.jpg)
+  -Registration Screen
   
   ![Alt Text](img/3.jpg)
   
